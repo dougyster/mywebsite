@@ -36,7 +36,7 @@ function App() {
         <header>
           <h1 className="code-font">Douglas Yang</h1>
           <div className="social-links">
-            <a href="https://linkedin.com/douglasyang1" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/douglasyang1/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
               <i className="fa-brands fa-linkedin social-icon linkedin-icon"></i>
             </a>
             <a href="https://x.com/DHCUnited" target="_blank" rel="noopener noreferrer" aria-label="Twitter/X">
@@ -66,7 +66,7 @@ function App() {
           <div className={`section-content ${!experienceExpanded ? 'collapsed' : ''}`}>
             <ul className="experience-list">
               <li>ETL Pipeline Engineering @ Amazon</li>
-              <li>Data Engineering and ML Research @ Harvard Rubin Observatory Research Group</li>
+              <li>Data Engineering and NLP Research @ Harvard Rubin Observatory Research Group</li>
               <li>Vector Database Research @ RPS Ventures</li>
               <li>API Engineering @ Figur8 (Biotech startup from MIT)</li>
               <li>2 x Crypto hackathon winner @ EasyA </li>
