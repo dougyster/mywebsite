@@ -34,7 +34,7 @@ function App() {
     <div className="portfolio">
       <div className="container">
         <header>
-          <h1>Douglas Yang</h1>
+          <h1 className="code-font">Douglas Yang</h1>
           <div className="social-links">
             <a href="https://linkedin.com/douglasyang1" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
               <i className="fa-brands fa-linkedin social-icon linkedin-icon"></i>
